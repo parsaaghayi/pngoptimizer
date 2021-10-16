@@ -4,10 +4,10 @@ You can use it to optimize your png files in best quality.
 This package use <a href="https://pngquant.org/" target="_blank" rel="noopener noreferrer">pngquant</a>; so you must install it first.
 You can optimize your images in any quality you want<br>
 By default it will scan dir for finding png files in depth of 6 that you can change it very easy.<br>
-Only in One Line :<br>
+Only in One Line :<br><br>
 <code>
 $statement->optimize($dir, $min_quality, $max_quality, $strip);
-</code>
+</code><br>
 <br>example1:<br>
 <pre>
 require_once './vendor/autoload.php';
