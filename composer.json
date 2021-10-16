@@ -1,0 +1,17 @@
+{
+    "name": "parsaaghayi/pngoptimizer",
+    "description": "use it to optimize your pgn files by pngquant.",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Parsaaghayi\\Pngoptimizer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "parsa aghayi",
+            "email": "parsa.aghaee@gmail.com"
+        }
+    ],
+    "require": {}
+}
