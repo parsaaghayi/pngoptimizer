@@ -1,4 +1,4 @@
-<?php   namespace Parsaaghayi\Pngoptimizer;
+<?php   namespace Parsaaghayi\PngOptimizer;
 
 class PngOptimizer
 {
