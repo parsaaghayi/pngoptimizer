@@ -4,7 +4,7 @@ You can use it to optimize your png files in best quality.
 This package use <a href="https://imagemagick.org/" target="_blank" rel="noopener noreferrer">imagemagick</a> and <a href="https://pngquant.org/" target="_blank" rel="noopener noreferrer">pngquant</a>; so you must install them first.
 You can optimize your images in any quality you want.<br>
 By default it will scan dir for finding png files in depth of 6 that you can change it very easy.<br>
-Only in One Line :<br><br>
+You can use it Only in One Line :<br><br>
 <code>
 $statement->optimize($dir, $min_quality, $max_quality, $strip);
 </code><br>
