@@ -19,5 +19,5 @@ This code will create an optimized version of your png file which the name is fi
 Original Image (799KB):<br><br>
 ![Original Image 799KB](https://parsaaghayi.ir/github/pngoptimizer/favpng_pumpkin-cucurbita-vine-clip-art.png "Original Image 799KB")<br><br><br>
 optimized Image (264KB):<br><br>
-![optimized Image 264KB](https://parsaaghayi.ir/github/pngoptimizer/favpng_pumpkin-cucurbita-vine-clip-art-fs8.png "optimized Image 264KB")<br><br><br>
+![optimized Image 264KB](https://parsaaghayi.ir/github/pngoptimizer/favpng_pumpkin-cucurbita-vine-clip-art-fs8.png "optimized Image 264KB")
 
