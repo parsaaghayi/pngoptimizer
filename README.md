@@ -7,7 +7,7 @@ By default it will scan dir for finding png files in depth of 6 that you can cha
 You can use it Only in One Line :<br><br>
 <code>
 $statement->optimize($dir, $min_quality, $max_quality, $strip);
-</code><br>
+</code>
 <br>example1:<br>
 <pre>
 require_once './vendor/autoload.php';
